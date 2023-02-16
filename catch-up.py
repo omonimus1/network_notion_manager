@@ -19,7 +19,6 @@ smtp_server = os.getenv("SMTP_SERVER")
 smtp_port =  os.getenv("SMTP_PORT") 
 smtp_username =  os.getenv("SMTP_USERNAME")
 smtp_password =   os.getenv("SMTP_PASSWORD")
-smtp_from_address =  os.getenv("SMTP_FROM_EMAIL")
 sender_email =  os.getenv("SENDER_EMAIL")
 notion_api_key = os.getenv("NOTION_API_KEY")
 
