@@ -10,6 +10,9 @@ Sometimes, I lack in maintaing the relationship active, so, I created a script t
 Fetch the data from a notion database used to store contacts and/or progressional network details, and
 runs daily jobs to send an automatic email with people where last iteration was more than 40 days ago.
 
+### Deplyment 
+* Serverless solutions => Azure Functions
+
 ### Notion Database structure
 
 ![Notion Database](img/notion_db.png)
