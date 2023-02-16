@@ -12,6 +12,8 @@ runs daily jobs to send an automatic email with people where last iteration was 
 
 ### Notion Database structure
 
+![Notion Database](img/notion_db.png)
+
 ### System Requirements
 * Sendiblue.com account and SMTP configuration (you are able to send up to 100 daily emails for free)
 * Dotenv ```pip3 install python-dotenv```
